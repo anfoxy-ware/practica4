@@ -1,5 +1,5 @@
 // index.js
-function holaMundo() {
+function holaMundial() {
     return "Hola Mundo";
 }
 
